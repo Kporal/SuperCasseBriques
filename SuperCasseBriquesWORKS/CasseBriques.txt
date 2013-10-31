@@ -1,0 +1,5 @@
+R. Guillaume
+G. Leloup
+V. Roulleau
+
+voir Applications/SuperCasseBriques/README.txt
